@@ -15,5 +15,5 @@ Key JavaScript concepts involved:
 
 ## Screenshots
 
-<img width="1440" alt="Landing page" src="Project photos/Screenshot 2024-12-28 192912.png">
-<img width="1440" alt="Result page" src="Project photos/Screenshot 2024-12-28 193057.png">
+<img width="1440" alt="Landing page" src="Project Photos/Screenshot 2024-12-28 192912.png">
+<img width="1440" alt="Result page" src="Project Photos/Screenshot 2024-12-28 193057.png">
