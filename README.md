@@ -12,3 +12,8 @@ Key JavaScript concepts involved:
 - DOM manipulation
 - Control structures
 - String operations
+
+## Screenshots
+
+<img width="1440" alt="Landing page" src="Project photos/Screenshot 2024-12-28 192912.png">
+<img width="1440" alt="Result page" src="Project photos/Screenshot 2024-12-28 193057.png">
