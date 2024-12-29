@@ -1,6 +1,9 @@
 # Word Guessing Game
 Welcome to my COMP 125 Word Guessing Game assignment! This game uses JavaScript to enhance basic gameplay. 
 
+## Link 
+Project Link : https://manav4499.github.io/Word-guessing-game/
+
 ## Implemented Features
 1. **Event Handling Delay**: Implemented a 300ms delay before processing each letter.
 2. **Success Message**: Display "You guessed the word correctly!" in the `msgBox` upon correctly guessing the full word.
